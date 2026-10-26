@@ -1,0 +1,12 @@
+target/
+.env
+*.log
+.idea/
+*.iml
+.DS_Store
+
+bin/
+.classpath
+.project
+.factorypath
+.settings/
